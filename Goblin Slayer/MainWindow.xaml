@@ -1,0 +1,18 @@
+﻿<Window x:Class="Goblin_Slayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Goblin_Slayer"
+        mc:Ignorable="d"
+        Title="Goblin Slayer" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button1"
+                   Margin="10,59,604,330" RenderTransformOrigin="0.5,0.5" Click="button1_Click">
+            Гоблин
+        </Button>
+        <TextBox x:Name="textBox" Width="178" RenderTransformOrigin="0.606,1.611" Margin="10,27,604,365"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="10,231,0,0" VerticalAlignment="Top" Width="100" Source="C:\Users\iai\Desktop\Goblin Slayer\images.png"/>
+        <WrapPanel x:Name="myWrapPanel" HorizontalAlignment="Left" Height="398" Margin="210,11,0,0" VerticalAlignment="Top" Width="572"/>
+    </Grid>
+</Window>

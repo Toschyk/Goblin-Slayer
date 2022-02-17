@@ -1,0 +1,44 @@
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.exe.config
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.exe
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.pdb
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csprojAssemblyReference.cache
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\MainWindow.g.cs
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\App.g.cs
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer_MarkupCompile.cache
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer_MarkupCompile.lref
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\MainWindow.baml
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.g.resources
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin_Slayer.Properties.Resources.resources
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csproj.GenerateResource.cache
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.exe
+C:\Users\iai\Desktop\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.pdb
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.exe.config
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.exe
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.pdb
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csproj.AssemblyReference.cache
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\MainWindow.g.cs
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\App.g.cs
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer_MarkupCompile.cache
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer_MarkupCompile.lref
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\MainWindow.baml
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.g.resources
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin_Slayer.Properties.Resources.resources
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csproj.GenerateResource.cache
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csproj.CoreCompileInputs.cache
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.exe
+D:\Учёба\Отладка и тестирование ИС\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.pdb
+G:\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.exe.config
+G:\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.exe
+G:\Goblin Slayer\Goblin Slayer\bin\Debug\Goblin Slayer.pdb
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csproj.AssemblyReference.cache
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\MainWindow.g.cs
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\App.g.cs
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer_MarkupCompile.cache
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer_MarkupCompile.lref
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\MainWindow.baml
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.g.resources
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin_Slayer.Properties.Resources.resources
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csproj.GenerateResource.cache
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.csproj.CoreCompileInputs.cache
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.exe
+G:\Goblin Slayer\Goblin Slayer\obj\Debug\Goblin Slayer.pdb
